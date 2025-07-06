@@ -35,5 +35,6 @@ aliqasim54321/aliqasim54321 is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
+<hr/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliqasim54321&" alt="aliqasim54321" /></p>
