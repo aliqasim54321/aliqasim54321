@@ -6,7 +6,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## Skills
 
-| Skill | Associated Project |
+| Technical Skill | Demonstrated Project |
 |---------|---------|
 | Vulnerability Scanning & Remediation | [Vulnerability Management Program Implementation](https://github.com/aliqasim54321/Vulnerability-management-program) |
 | Threat Hunting Scenario (Tor Browser Usage) | [Threat Hunting Scenario Implementation](https://github.com/joshmadakor0/threat-hunting-scenario-tor) |
