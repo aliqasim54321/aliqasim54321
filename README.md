@@ -2,17 +2,14 @@
 
 I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
-
-## ⚠️ Vulnerability Management Projects
-
-- **[Vulnerability Management Program Implementation](https://github.com/aliqasim54321/Vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
-
-## 🚨 Threat Hunting and Security Operations
-
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
-
 <hr/>
+
+## Skills
+
+| Skill | Associated Project |
+|---------|---------|
+| Vulnerability Scanning & Remediation | [Vulnerability Management Program Implementation](#https://github.com/aliqasim54321/Vulnerability-management-program) |
+| Threat Hunting Scenario (Tor Browser Usage) | [Threat Hunting Scenario Implementation](#https://github.com/joshmadakor0/threat-hunting-scenario-tor) |
 
 ## 🤳 Connect With Me
 
