@@ -8,8 +8,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 | Skill | Associated Project |
 |---------|---------|
-| Vulnerability Scanning & Remediation | [Vulnerability Management Program Implementation](#https://github.com/aliqasim54321/Vulnerability-management-program) |
-| Threat Hunting Scenario (Tor Browser Usage) | [Threat Hunting Scenario Implementation](#https://github.com/joshmadakor0/threat-hunting-scenario-tor) |
+| Vulnerability Scanning & Remediation | [Vulnerability Management Program Implementation](https://github.com/aliqasim54321/Vulnerability-management-program) |
+| Threat Hunting Scenario (Tor Browser Usage) | [Threat Hunting Scenario Implementation](https://github.com/joshmadakor0/threat-hunting-scenario-tor) |
 
 ## 🤳 Connect With Me
 
