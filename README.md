@@ -1,37 +1,60 @@
+
 # <a href="https://www.linkedin.com/in/aliqasim54321/">Ali Qasim</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+IT and Cybersecurity professional with hands-on experience in **SOC operations, IAM, vulnerability management, Active Directory, Microsoft Entra ID, ServiceNow, endpoint support, and networking**.
+
+My portfolio highlights practical projects in **threat hunting, vulnerability assessment, system hardening, and Agentic AI for SOC operations**, with a focus on using automation and AI to improve security investigations, alert analysis, and incident response.
 
 <hr/>
 
-## Skills
+## 🛠️ Skills & Projects
 
 | Technical Skill | Demonstrated Project |
 |---------|---------|
-| Vulnerability Scanning & Remediation | [Vulnerability Management Program Implementation](https://github.com/aliqasim54321/Vulnerability-management-program) |
-| Threat Hunting Scenario (Tor Browser Usage) | [Threat Hunting Scenario Implementation](https://github.com/joshmadakor0/threat-hunting-scenario-tor) |
+| AI-Assisted Security Operations | [Agentic AI SOC Agent](https://github.com/aliqasim54321/Agentic-Ai-Soc-Agent) |
+| Threat Hunting – Tor Browser Detection | [Threat Hunting Scenario Implementation](https://github.com/joshmadakor0/threat-hunting-scenario-tor) |
+| Threat Hunting & Attack Chain Investigation | [Threat Hunt – Entry Point Azuki](https://github.com/aliqasim54321/threat-Hunt---2-entry-point-Azuki-) |
+| Vulnerability Management & Remediation | [Vulnerability Management Program Implementation](https://github.com/aliqasim54321/Vulnerability-management-program) |
+| Vulnerability Assessment – Authenticated vs Unauthenticated Scanning | [Vulnerable Authenticated and Unauthenticated Scan](https://github.com/aliqasim54321/Vulnerable-authenticated-and-unauthenticated-scan) |
+| DISA STIG Compliance & Vulnerability Scanning | [DISA STIG Scan Template](https://github.com/aliqasim54321/DISA-STIG-Scan-Template) |
+| Linux Vulnerability Assessment | [Linux Authenticated & Unauthenticated Scan](https://github.com/aliqasim54321/Linux-auth-unauth-scan) |
+| Windows Agent-Based Vulnerability Monitoring | [Agent-Based Monitor – Windows](https://github.com/aliqasim54321/AgentBasedMonitor-Windows) |
+| Linux Agent-Based Vulnerability Monitoring | [Agent-Based Monitor – Linux](https://github.com/aliqasim54321/AgentBasedMonitor-Linux) |
+
+
+<hr/>
 
 ## 🤳 Connect With Me
 
-[<img align="left" alt="___Ali___ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="___Ali________ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="___Ali________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="___Ali________ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Ali | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Ali | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Ali | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Ali | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br/>
 
 [twitter]: https://twitter.com/___________
 [youtube]: https://www.youtube.com/c/___________
 [instagram]: https://www.instagram.com/___________
-[linkedin]: https://linkedin.com/in/___________
+[linkedin]: https://www.linkedin.com/in/aliqasim54321/
 
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
 -->
+
 <!---
-aliqasim54321/aliqasim54321 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+aliqasim54321/aliqasim54321 is a ✨ special ✨ repository because its `README.md` 
+(this file) appears on your GitHub profile.
+
 You can click the Preview link to take a look at your changes.
 --->
 
 <hr/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliqasim54321&" alt="aliqasim54321" /></p>
+## 📊 GitHub Activity
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliqasim54321&" alt="aliqasim54321" />
+</p>
+
