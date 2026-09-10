@@ -3,9 +3,21 @@
 
 IT and Cybersecurity professional with hands-on experience in **SOC operations, IAM, Active Directory, Microsoft Entra ID, vulnerability management, threat hunting, ServiceNow, endpoint support, and networking**. Skilled in **Python, PowerShell, Bash, and KQL** for automation, system administration, security investigations, and log analysis. My projects focus on real-world security challenges, with a strong interest in **Agentic AI for SOC operations**, security automation, alert analysis, and faster incident response.
 
+## 🛠️ Technical Skills
+
+**Security Operations:** Microsoft Defender for Endpoint, Microsoft Sentinel, KQL, Threat Hunting, Incident Investigation
+
+**Vulnerability Management:** Tenable Vulnerability Management, Nessus, DISA STIG, Vulnerability Remediation
+
+**Identity & Access Management:** Active Directory, Microsoft Entra ID, RBAC, MFA, Conditional Access
+
+**Scripting & Automation:** Python, PowerShell, Bash, KQL
+
+**IT & Infrastructure:** Windows, Linux, Azure, Networking, ServiceNow
+
 <hr/>
 
-## 🛠️ Skills & Projects
+## 🛠️ Projects
 
 | Technical Skill | Demonstrated Project |
 |---------|---------|
