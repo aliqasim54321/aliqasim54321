@@ -1,7 +1,9 @@
 
 # <a href="https://www.linkedin.com/in/aliqasim54321/">Ali Qasim</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-IT and Cybersecurity professional with hands-on experience in **SOC operations, IAM, Active Directory, Microsoft Entra ID, vulnerability management, threat hunting, ServiceNow, endpoint support, and networking**. Skilled in **Python, PowerShell, Bash, and KQL** for automation, system administration, security investigations, and log analysis. My projects focus on real-world security challenges, with a strong interest in **Agentic AI for SOC operations**, security automation, alert analysis, and faster incident response.
+IT and Cybersecurity professional with hands-on experience in **SOC operations, IAM, Active Directory, Microsoft Entra ID, vulnerability management, threat hunting, ServiceNow, endpoint support, and networking**.
+
+Skilled in **Python, PowerShell, Bash, and KQL** for automation, system administration, security investigations, and log analysis, with a strong interest in **Agentic AI for SOC operations, security automation, alert analysis, and incident response**.
 
 ## 🛠️ Technical Skills
 
