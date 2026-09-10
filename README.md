@@ -22,12 +22,12 @@ IT and Cybersecurity professional with hands-on experience in **SOC operations, 
 | Technical Skill | Demonstrated Project |
 |---------|---------|
 | AI-Assisted Security Operations | [Agentic AI SOC Agent](https://github.com/aliqasim54321/Agentic-Ai-Soc-Agent) |
+| Microsoft-Defender-Threat-Hunt-Azuki | [Threat Hunt – Entry Point Azuki](https://github.com/aliqasim54321/threat-Hunt---2-entry-point-Azuki-) |
 | Threat Hunting – Tor Browser Detection | [Threat Hunting Scenario Implementation](https://github.com/joshmadakor0/threat-hunting-scenario-tor) |
-| Threat Hunting & Attack Chain Investigation | [Threat Hunt – Entry Point Azuki](https://github.com/aliqasim54321/threat-Hunt---2-entry-point-Azuki-) |
 | Vulnerability Management & Remediation | [Vulnerability Management Program Implementation](https://github.com/aliqasim54321/Vulnerability-management-program) |
-| Vulnerability Assessment – Authenticated vs Unauthenticated Scanning | [Vulnerable Authenticated and Unauthenticated Scan](https://github.com/aliqasim54321/Vulnerable-authenticated-and-unauthenticated-scan) |
-| DISA STIG Compliance & Vulnerability Scanning | [DISA STIG Scan Template](https://github.com/aliqasim54321/DISA-STIG-Scan-Template) |
-| Linux Vulnerability Assessment | [Linux Authenticated & Unauthenticated Scan](https://github.com/aliqasim54321/Linux-auth-unauth-scan) |
+| Windows-Authenticated-vs-Unauthenticated-Tenable-Scan | [Vulnerable Authenticated and Unauthenticated Scan](https://github.com/aliqasim54321/Vulnerable-authenticated-and-unauthenticated-scan) |
+| Windows-11-DISA-STIG-Compliance-Assessment | [DISA STIG Scan Template](https://github.com/aliqasim54321/DISA-STIG-Scan-Template) |
+| Linux-Authenticated-vs-Unauthenticated-Tenable-Scan | [Linux Authenticated & Unauthenticated Scan](https://github.com/aliqasim54321/Linux-auth-unauth-scan) |
 | Windows Agent-Based Vulnerability Monitoring | [Agent-Based Monitor – Windows](https://github.com/aliqasim54321/AgentBasedMonitor-Windows) |
 | Linux Agent-Based Vulnerability Monitoring | [Agent-Based Monitor – Linux](https://github.com/aliqasim54321/AgentBasedMonitor-Linux) |
 
